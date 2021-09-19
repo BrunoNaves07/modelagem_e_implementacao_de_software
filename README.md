@@ -10,7 +10,7 @@ diretrizes.
 * Listagem de tópicos (numeradas ou não)
 
 #### Minha classe PHP
-` 
+```
 class Teste {
      private $valX;
      private $valY;
@@ -43,7 +43,6 @@ class Teste {
      public function soma() {
          return $this->getValX() + $this->getValY();
      }
-
  }
-`
+```
 
