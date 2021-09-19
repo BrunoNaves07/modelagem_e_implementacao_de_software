@@ -10,7 +10,8 @@ diretrizes.
 * Listagem de tópicos (numeradas ou não)
 
 #### Minha classe PHP
-` class Teste {
+` 
+class Teste {
      private $valX;
      private $valY;
      
@@ -43,5 +44,6 @@ diretrizes.
          return $this->getValX() + $this->getValY();
      }
 
- }`
+ }
+`
 
