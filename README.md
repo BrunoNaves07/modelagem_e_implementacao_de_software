@@ -6,7 +6,7 @@ diretrizes.
 
 1. Conter um **README com título**
 2. Texto formatado *itálico* e **negrito**
-3. Trecho de Código *(Estou usando PHP)*
+3. Trecho de Código *(Estou usando [PHP](https://www.php.net/))*
 4. Listagem de tópicos (numeradas ou não)
 
 #### Minha classe PHP
@@ -47,7 +47,7 @@ class Teste {
 ```
 ## Universidade Federal de Lavras
 
-A Universidade Federal de Lavras é uma instituição de ensino superior pública federal
+A [Universidade Federal de Lavras - UFLA](https://ufla.br/) é uma instituição de ensino superior pública federal
 brasileira, sediada na cidade de Lavras/MG. A UFLA possui um dos melhores índices de qualidade do Brasil.
 ![Logo Universidade Federal de Lavras](/img/logo-ufla-transparente.png "Logo da Universidade Federal de Lavras")
 
