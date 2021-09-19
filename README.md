@@ -49,5 +49,5 @@ class Teste {
 
 A Universidade Federal de Lavras é uma instituição de ensino superior pública federal
 brasileira, sediada na cidade de Lavras/MG. A UFLA possui um dos melhores índices de qualidade do Brasil.
-![Logo Universidade Federal de Lavras]([https://www.ufla.br/dcom/curso-faepe-revisional/] "Logo da Universidade Federal de Lavras")
+![Logo Universidade Federal de Lavras](https://www.ufla.br/dcom/curso-faepe-revisional/ "Logo da Universidade Federal de Lavras")
 
